@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-zMarket is intended for delivery of packages and applications on various systems.
+zMarket is intended for delivery of packages and applications on various systems. From this storage, other platforms pick up packages.
 
-- [GitHub](https://github.com/zmarket)  
-  Main storage. From this storage, other platforms pick up packages.
+## Resources
+
 - [Packagist](https://packagist.org/packages/zmarket)  
   Composer package repository.
 - [Fedora COPR](https://copr.fedorainfracloud.org/coprs/zmarket/)  
