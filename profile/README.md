@@ -1,12 +1,18 @@
 ## Hi there 👋
 
-<!--
+zMarket is intended for delivery of packages and applications on various systems.
 
-**Here are some ideas to get you started:**
+- [GitHub](https://github.com/zmarket)  
+  Main storage. From this storage, other platforms pick up packages.
+- [Packagist](https://packagist.org/packages/zmarket)  
+  Composer package repository.
+- [Fedora COPR](https://copr.fedorainfracloud.org/coprs/zmarket/)  
+  Copr ("Community projects") is a service that builds open-source projects and creates RPM repositories.
+- [openSUSE OBS](https://build.opensuse.org/project/show/home:zmarket)  
+  The Open Build Service is an openSUSE project.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Mirrors
+
+- [GitHub](https://github.com/zmarket-mirror)
+- [GitLab (private)](https://gitlab.com/zmarket-mirror)
+- [Codeberg](https://codeberg.org/zmarket-mirror)
