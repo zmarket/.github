@@ -1,3 +1,7 @@
+[RESOURCES](#resources) / [MIRRORS](#mirrors)
+
+---
+
 ## Hi there 👋
 
 zMarket is intended for delivery of packages and applications on various systems. From this storage, other platforms pick up packages.
