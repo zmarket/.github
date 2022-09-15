@@ -20,5 +20,5 @@ zMarket is intended for delivery of packages and applications on various systems
 ## Mirrors
 
 - [GitHub](https://github.com/zmarket-mirror)
-- [GitLab (private)](https://gitlab.com/zmarket-mirror)
+- [GitLab](https://gitlab.com/zmarket-mirror)
 - [Codeberg](https://codeberg.org/zmarket-mirror)
