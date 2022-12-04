@@ -4,7 +4,7 @@
 
 ## Hi there 👋
 
-zMarket is intended for delivery of packages and applications on various systems. From this storage, other platforms pick up packages.
+ZMarket is intended for delivery of packages and applications on various systems. From this storage, other platforms pick up packages.
 
 <img src="https://raw.githubusercontent.com/zmarket/.github/main/img.01.min.svg" width="100%" alt="OctoCat" />
 
